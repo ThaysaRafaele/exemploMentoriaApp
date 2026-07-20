@@ -1,0 +1,14 @@
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\bin\Debug\net8.0\exemploMentoriaApp.exe
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\bin\Debug\net8.0\exemploMentoriaApp.deps.json
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\bin\Debug\net8.0\exemploMentoriaApp.runtimeconfig.json
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\bin\Debug\net8.0\exemploMentoriaApp.dll
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\bin\Debug\net8.0\exemploMentoriaApp.pdb
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\obj\Debug\net8.0\exemploMentoriaApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\obj\Debug\net8.0\exemploMentoriaApp.AssemblyInfoInputs.cache
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\obj\Debug\net8.0\exemploMentoriaApp.AssemblyInfo.cs
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\obj\Debug\net8.0\exemploMentoriaApp.csproj.CoreCompileInputs.cache
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\obj\Debug\net8.0\exemploMentoriaApp.dll
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\obj\Debug\net8.0\refint\exemploMentoriaApp.dll
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\obj\Debug\net8.0\exemploMentoriaApp.pdb
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\obj\Debug\net8.0\exemploMentoriaApp.genruntimeconfig.cache
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\obj\Debug\net8.0\ref\exemploMentoriaApp.dll
