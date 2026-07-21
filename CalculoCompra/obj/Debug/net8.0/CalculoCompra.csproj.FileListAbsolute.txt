@@ -1,0 +1,15 @@
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\CalculoCompra\bin\Debug\net8.0\CalculoCompra.exe
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\CalculoCompra\bin\Debug\net8.0\CalculoCompra.deps.json
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\CalculoCompra\bin\Debug\net8.0\CalculoCompra.runtimeconfig.json
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\CalculoCompra\bin\Debug\net8.0\CalculoCompra.dll
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\CalculoCompra\bin\Debug\net8.0\CalculoCompra.pdb
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\CalculoCompra\obj\Debug\net8.0\CalculoCompra.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\CalculoCompra\obj\Debug\net8.0\CalculoCompra.AssemblyInfoInputs.cache
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\CalculoCompra\obj\Debug\net8.0\CalculoCompra.AssemblyInfo.cs
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\CalculoCompra\obj\Debug\net8.0\CalculoCompra.csproj.CoreCompileInputs.cache
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\CalculoCompra\obj\Debug\net8.0\CalculoCompra.sourcelink.json
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\CalculoCompra\obj\Debug\net8.0\CalculoCompra.dll
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\CalculoCompra\obj\Debug\net8.0\refint\CalculoCompra.dll
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\CalculoCompra\obj\Debug\net8.0\CalculoCompra.pdb
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\CalculoCompra\obj\Debug\net8.0\CalculoCompra.genruntimeconfig.cache
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\CalculoCompra\obj\Debug\net8.0\ref\CalculoCompra.dll
