@@ -1,0 +1,15 @@
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\CalculoMediaExemplo2\bin\Debug\net8.0\CalculoMediaExemplo2.exe
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\CalculoMediaExemplo2\bin\Debug\net8.0\CalculoMediaExemplo2.deps.json
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\CalculoMediaExemplo2\bin\Debug\net8.0\CalculoMediaExemplo2.runtimeconfig.json
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\CalculoMediaExemplo2\bin\Debug\net8.0\CalculoMediaExemplo2.dll
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\CalculoMediaExemplo2\bin\Debug\net8.0\CalculoMediaExemplo2.pdb
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\CalculoMediaExemplo2\obj\Debug\net8.0\CalculoMediaExemplo2.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\CalculoMediaExemplo2\obj\Debug\net8.0\CalculoMediaExemplo2.AssemblyInfoInputs.cache
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\CalculoMediaExemplo2\obj\Debug\net8.0\CalculoMediaExemplo2.AssemblyInfo.cs
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\CalculoMediaExemplo2\obj\Debug\net8.0\CalculoMediaExemplo2.csproj.CoreCompileInputs.cache
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\CalculoMediaExemplo2\obj\Debug\net8.0\CalculoMediaExemplo2.sourcelink.json
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\CalculoMediaExemplo2\obj\Debug\net8.0\CalculoMediaExemplo2.dll
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\CalculoMediaExemplo2\obj\Debug\net8.0\refint\CalculoMediaExemplo2.dll
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\CalculoMediaExemplo2\obj\Debug\net8.0\CalculoMediaExemplo2.pdb
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\CalculoMediaExemplo2\obj\Debug\net8.0\CalculoMediaExemplo2.genruntimeconfig.cache
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\CalculoMediaExemplo2\obj\Debug\net8.0\ref\CalculoMediaExemplo2.dll
