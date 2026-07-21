@@ -1,0 +1,15 @@
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\TiposDeErros\bin\Debug\net8.0\TiposDeErros.exe
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\TiposDeErros\bin\Debug\net8.0\TiposDeErros.deps.json
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\TiposDeErros\bin\Debug\net8.0\TiposDeErros.runtimeconfig.json
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\TiposDeErros\bin\Debug\net8.0\TiposDeErros.dll
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\TiposDeErros\bin\Debug\net8.0\TiposDeErros.pdb
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\TiposDeErros\obj\Debug\net8.0\TiposDeErros.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\TiposDeErros\obj\Debug\net8.0\TiposDeErros.AssemblyInfoInputs.cache
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\TiposDeErros\obj\Debug\net8.0\TiposDeErros.AssemblyInfo.cs
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\TiposDeErros\obj\Debug\net8.0\TiposDeErros.csproj.CoreCompileInputs.cache
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\TiposDeErros\obj\Debug\net8.0\TiposDeErros.sourcelink.json
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\TiposDeErros\obj\Debug\net8.0\TiposDeErros.dll
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\TiposDeErros\obj\Debug\net8.0\refint\TiposDeErros.dll
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\TiposDeErros\obj\Debug\net8.0\TiposDeErros.pdb
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\TiposDeErros\obj\Debug\net8.0\TiposDeErros.genruntimeconfig.cache
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\TiposDeErros\obj\Debug\net8.0\ref\TiposDeErros.dll

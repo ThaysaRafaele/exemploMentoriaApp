@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("exemploMentoriaApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd42dec5a6622d787bce9c8a0127e31555d315e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24cbdda932b7c2027f26947d4fca5f784221ea3b")]
 [assembly: System.Reflection.AssemblyProductAttribute("exemploMentoriaApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("exemploMentoriaApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,3 +12,4 @@ D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\obj\Debug\net8.0\refint
 D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\obj\Debug\net8.0\exemploMentoriaApp.pdb
 D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\obj\Debug\net8.0\exemploMentoriaApp.genruntimeconfig.cache
 D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\obj\Debug\net8.0\ref\exemploMentoriaApp.dll
+D:\DOCUMENTOS\Wo Makers Code\EXEMPLOS\exemploMentoriaApp\obj\Debug\net8.0\exemploMentoriaApp.sourcelink.json
